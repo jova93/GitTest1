@@ -1,0 +1,11 @@
+commit 34794df8b7007ee32161b8ca286a78b33dd40e42 (HEAD -> main, new_branch)
+Author: jova93 <89088512+jova93@users.noreply.github.com>
+Date:   Sat Aug 21 17:01:42 2021 +0200
+
+    Added a .txt file
+
+commit e50c0e77956f7eb5a563794263f734952761e8e2 (origin/main)
+Author: jova93 <89088512+jova93@users.noreply.github.com>
+Date:   Sat Aug 21 16:51:13 2021 +0200
+
+    Initial commit
